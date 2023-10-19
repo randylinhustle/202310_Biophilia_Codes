@@ -1,4 +1,4 @@
-This repository contains replication codes for the paper "Title of Your Paper".
+This repository contains replication codes for the paper "Biophilia gratification: Evidence from nature-related posts and images on social media".
 
 ## Image Analysis
 - "img-downloader.ipynb": A Python script to download images from Facebook, aiding in the compilation of visual data for the study.
