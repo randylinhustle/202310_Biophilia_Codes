@@ -1,4 +1,4 @@
-This repository contains replication codes for the paper "."
+This repository contains replication codes for the paper "Title of Your Paper".
 
 ## Image Analysis
 1. **img-downloader.ipynb**: A Python script to download images from Facebook, aiding in the compilation of visual data for the study.
@@ -10,3 +10,7 @@ This repository contains replication codes for the paper "."
 
 ## Dictionary
 5. **dict**: A collection of dictionaries that categorize terms into relevant subcategories, supporting the analysis process.
+
+## Datasets
+- "post-analysis-dataset.csv": the dataset for the post text analysis, downloaded here[[Download post-analysis-dataset.csv](https://www.dropbox.com/scl/fi/mi4fn12knito5myxsuekj/post-analysis-dataset.csv?rlkey=9bw9n7gvrgwtctsl5mr7duolf&dl=0)].
+- "img-analysis-dataset.csv": the dataset for the post image analysis, downloaded here
