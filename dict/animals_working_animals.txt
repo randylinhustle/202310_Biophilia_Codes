@@ -1,0 +1,9 @@
+camel
+carthorse
+donkey
+dromedary
+hunter
+mouser
+mule
+pack animal
+packhorse

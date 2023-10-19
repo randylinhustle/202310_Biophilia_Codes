@@ -1,0 +1,80 @@
+agriculture
+bale
+barley
+bean
+beet
+blight
+buckwheat
+canola
+cash crop
+cereal
+chaff
+combine
+corn
+cotton
+crofting
+crop
+crop dusting
+cultivation
+dryland farming
+ear
+earth
+elevator
+fertilization
+fertilizer
+field corn
+fruit
+furrow
+glasshouse
+grain
+grain elevator
+greenhouse
+growing season
+harvest
+hay
+insecticide
+legume
+lime
+loam
+maize
+manure
+monoculture
+muck
+nitrate
+oats
+oilseed rape
+permaculture
+pest
+pesticide
+planter
+plough
+plow
+polytunnel
+produce
+pulse
+rape
+rapeseed
+rice
+rotation
+rye
+scarecrow
+seed
+soil
+sorghum
+soya
+sprayer
+sprinkler
+staple
+straw
+stubble
+subsoil
+sugar beet
+sugar cane
+sunflower
+terrace
+topsoil
+vegetable
+vineyard
+vintage
+wheat
+yield

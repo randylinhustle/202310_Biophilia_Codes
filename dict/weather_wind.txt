@@ -1,0 +1,30 @@
+anemometer
+breeze
+crosswind
+cyclone
+dust storm
+easterly
+force
+gale
+gust
+headwind
+hurricane
+mistral
+nor'easter
+northerly
+sirocco
+southerly
+squall
+the beaufort scale
+storm
+tailwind
+tempest
+tornado
+twister
+typhoon
+weathervane
+westerly
+whirlwind
+wind
+wind gauge
+zephyr

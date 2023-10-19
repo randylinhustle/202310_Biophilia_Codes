@@ -1,0 +1,26 @@
+avalanche
+bank
+blanket
+blizzard
+drift
+fall
+flake
+flurry
+frost
+hail
+hailstone
+ice
+icicle
+powder
+powder snow
+sleet
+slush
+snow
+snowdrift
+snowfall
+snowflake
+snowplough
+snowslide
+snowstorm
+thaw
+white-out

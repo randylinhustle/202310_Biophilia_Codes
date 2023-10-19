@@ -1,0 +1,8 @@
+animal
+beast
+creature
+extinction
+fauna
+habitat
+mammal
+wildlife

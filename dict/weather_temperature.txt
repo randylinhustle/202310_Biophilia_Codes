@@ -1,0 +1,10 @@
+centigrade
+cold
+cool
+fahrenheit
+freeze
+heat
+heatwave
+temperature
+warmth
+wind chill

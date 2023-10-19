@@ -1,0 +1,70 @@
+bay
+beach
+breakwater
+cape
+cliff
+coast
+coastline
+cove
+creek
+cross-current
+dike
+dock
+driftwood
+dune
+dyke
+esplanade
+fiord
+firth
+fjord
+flood tide
+flow
+foreshore
+groyne
+gulf
+headland
+high tide
+high water
+iceberg
+ice floe
+ice shelf
+inlet
+jetty
+lagoon
+land bridge
+low tide
+low water
+marina
+narrows
+ocean
+port
+promenade
+promontory
+reef
+rip tide
+riviera
+rock pool
+salt marsh
+salt water
+sandbank
+sandbar
+sand dune
+sea
+sea level
+seashore
+seaside
+shingle
+shore
+shoreline
+the high seas
+the seabed
+the shallows
+strand
+surf
+swell
+tidal wave
+tide
+tideline
+tidemark
+wharf
+whirlpool

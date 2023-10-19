@@ -1,0 +1,19 @@
+azure
+bolt
+cirrus
+cloud
+cover
+cumulonimbus
+cumulus
+firmament
+heat lightning
+horizon
+nimbus
+pall
+rainbow
+sky
+sun
+sunburst
+sunshine
+thundercloud
+zenith

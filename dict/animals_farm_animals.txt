@@ -1,0 +1,49 @@
+alpaca
+billy goat
+blackface
+brood mare
+buffalo
+bull
+bullock
+calf
+cattle
+chestnut
+chinchilla
+colt
+cow
+dogie
+ewe
+filly
+foal
+friesian
+gelding
+goat
+guernsey
+heifer
+highland cattle
+hog
+holstein
+horse
+jersey
+kid
+lamb
+llama
+longhorn
+mare
+nanny goat
+ox
+palomino
+pig
+piglet
+ram
+rare breed
+roan
+ruminant
+sheep
+shorthorn
+sow
+stallion
+steer
+water buffalo
+yak
+zebu

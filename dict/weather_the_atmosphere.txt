@@ -1,0 +1,23 @@
+air
+anticyclone
+atmosphere
+barometer
+crack
+depression
+dew
+electrical storm
+fog
+front
+haze
+high
+humidity
+isobar
+lightning
+low
+mist
+pressure
+rumble
+thunder
+vapor
+vapour
+visibility

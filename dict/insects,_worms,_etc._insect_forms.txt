@@ -1,0 +1,11 @@
+caterpillar
+chrysalis
+cocoon
+egg
+grub
+larva
+maggot
+nit
+nymph
+pupa
+silkworm

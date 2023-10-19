@@ -1,0 +1,57 @@
+adder
+alligator
+amphibian
+anaconda
+asp
+boa
+boa constrictor
+bullfrog
+bushmaster
+caiman
+cayman
+chameleon
+cobra
+copperhead
+coral snake
+cottonmouth
+croc
+crocodile
+dinosaur
+fang
+frog
+froglet
+frogspawn
+garter snake
+gecko
+grass snake
+hognose snake
+iguana
+komodo dragon
+krait
+leatherback
+lizard
+mamba
+monitor
+natterjack
+newt
+pit viper
+polliwog
+puff adder
+python
+rattlesnake
+reptile
+salamander
+sea turtle
+serpent
+sidewinder
+skink
+slider
+snake
+tadpole
+taipan
+terrapin
+toad
+tortoise
+turtle
+viper
+water moccasin
