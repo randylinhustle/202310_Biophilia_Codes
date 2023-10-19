@@ -1,4 +1,4 @@
-This repository contains replication codes for the paper "Towards a Technological Utopia or Dystopia? Anonymous Online Expression of Society-wide, Compulsory Use of Contact Tracing Apps as a Surveillance Technology."
+This repository contains replication codes for the paper "."
 
 ## Image Analysis
 1. **img-downloader.ipynb**: A Python script to download images from Facebook, aiding in the compilation of visual data for the study.
