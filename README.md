@@ -1,5 +1,3 @@
-# Towards a Technological Utopia or Dystopia? Replication Codes
-
 This repository contains replication codes for the paper "Towards a Technological Utopia or Dystopia? Anonymous Online Expression of Society-wide, Compulsory Use of Contact Tracing Apps as a Surveillance Technology."
 
 ## Image Analysis
